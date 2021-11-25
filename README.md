@@ -25,11 +25,18 @@
 ```
 ------- Bu kodun çalışması için bilgisayarınız da Nodejs kurulu olması gerekiyor -------
 
-1-) npm install
+4-) npm install
 
 ```
 
 - [Nodejs](https://nodejs.org/en/) kurulum
 
+- Kurulum'u bitirdik, son adım projeyi çalıştırmak
+
+```
+5-) npm start
+```
+
+- Artık projemiz varsayılan tarayıcınızda http://localhost:3000 adresinde çalışmaya başlamıştır. İyi çalışmalar
 
 ---
