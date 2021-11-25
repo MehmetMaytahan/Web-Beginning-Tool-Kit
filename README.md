@@ -6,7 +6,7 @@
 
 - İlk olarak bir tane klasör oluşturunuz
 - Oluşturduğunuz klasör için de terminal'i açınız.
-- Aşağıda ki işlemleri sırasıyla yapınız..
+- Açılan Terminalde aşağıda ki işlemleri sırasıyla yapınız..
 
 ```
 1-) git clone https://github.com/MehmetMaytahan/Web-Beginning-Tool-Kit.git
