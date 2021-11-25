@@ -1,7 +1,7 @@
 {
   "name": "web-beginning-tool-kit",
   "version": "1.0.0",
-  "description": "",
+  "description": "web beginning tool kit",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.24.0",
@@ -9,13 +9,14 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MehmetMaytahan/Web-beginning-tool-kit.git"
   },
-  "author": "",
+  "author": "Mehmet Maytahan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MehmetMaytahan/Web-beginning-tool-kit/issues"
